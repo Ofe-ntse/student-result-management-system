@@ -56,8 +56,8 @@ The student does not have permission to change their academic records.
 
 Main Actors
 
-| Actor         | Main Activities                                  |
-| Administrator | Manage students, subjects and system information |
-| Teacher       | Enter, update and view student marks             |
-| Student       | View personal information, subjects and results  |
+
+*Administrator | Manage students, subjects and system information 
+*Teacher       | Enter, update and view student marks             
+*Student       | View personal information, subjects and results  
 
