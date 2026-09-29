@@ -66,7 +66,7 @@ Students cannot modify academic records.
 **Database**
 The system uses a relational MySQL database.
 **Database name:**
-`studentmanagementsystemm`
+'studentmanagementsystem'
 The database contains tables for managing students, subjects, results, reports, users, and audit logs.
 **Database Design**
 The database was designed using relational database principles and was normalized to Third Normal Form (3NF) to reduce data duplication and improve data integrity.
@@ -93,7 +93,7 @@ The project includes:
 * Entity Relationship Diagram (ERD)
   
 **Screenshots**
-Screenshots demonstrating the system interface and functionality are included in the `screenshots` folder.
+Screenshots demonstrating the system interface and functionality are included in the 'screenshots' folder.
 
 **Testing**
 The system was tested using unit testing and functional testing.
