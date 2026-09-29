@@ -58,6 +58,8 @@ Main Actors
 
 
 *Administrator | Manage students, subjects and system information 
-*Teacher       | Enter, update and view student marks             
+
+*Teacher       | Enter, update and view student marks   
+
 *Student       | View personal information, subjects and results  
 
