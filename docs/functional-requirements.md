@@ -18,7 +18,7 @@
 09.Capture Results- The teacher should be able to enter student assessment marks into the system.
 
 10. Update Results- The teacher should be able to update marks when a correction or change is needed.
-11. 
+    
 11.View Results- The system should allow student results to be viewed. Students should only be able to view their own academic information.
 
 12.Calculate Total Marks- The system should calculate the total marks for a student's results.
