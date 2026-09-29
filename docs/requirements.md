@@ -66,14 +66,14 @@ The project uses:
 * **UNIQUE constraints** to prevent duplicate values where required.
 * **CHECK constraints** to ensure that marks are within the valid range of 0–100 and that status values contain Pass or Fail.
 
-## 7. System Access Requirements
+7. System Access Requirements
 Users must provide valid login information to access the application.
 The system should validate the username and password entered by the user. If the details are correct, access is granted; if the details are incorrect, an error message is displayed.
 
-## 8. System Data Requirements
+8. System Data Requirements
 The system should be able to store and manage student information, subject information, assessment results, user information, reports, and audit log information. The database tables should contain sample data to demonstrate that the system can store and manage information correctly.
 
-## 9. Database Normalization
+9. Database Normalization
 The database was designed and normalized to Third Normal Form (3NF).
 The normalization process includes:
 * **UNF:** Multiple subjects, assessments, and marks may appear in the same records.
@@ -82,9 +82,9 @@ The normalization process includes:
 * **3NF:** Each table has a primary key and non-key attributes depend directly on that primary key.
 The separation of student, subject, and result information helps reduce unnecessary data duplication and improve data integrity.
 
-## 10. System Constraints
+10. System Constraints
 The system depends on a MySQL database for storing and retrieving information. The application also requires a database connection for its database-related functions.
 
-## 11. Expected Outcome
+11. Expected Outcome
 The expected outcome is a functional Student Result Management System that allows authorised users to manage student academic information, subjects, and results while maintaining accurate and consistent database records.
 
