@@ -1,7 +1,9 @@
 # Student Result Management System
+
 **Project Overview**
 The Student Result Management System is a database-driven desktop application developed to manage student academic information efficiently and accurately.
 The system is designed to reduce manual paperwork, improve data accuracy, reduce data duplication, maintain data integrity, and provide quick access to student academic information for academic management and reporting.
+
 **Project Objectives**
 The main objectives of the system are to:
 * Store and manage student information in a relational database.
@@ -12,6 +14,7 @@ The main objectives of the system are to:
 * Allow users to create, view, update, and delete student records.
 * Improve data accuracy through validation and database integrity constraints.
 * Provide fast and reliable access to student academic information.
+  
 **User Roles**
 1.School Administrator
 The administrator manages the system and can:
@@ -37,6 +40,7 @@ The student has limited access to the system and can:
 * View average marks.
 * View pass or fail status.
 Students cannot modify academic records.
+
 **Key Features**
 * User login and validation
 * Student management
@@ -49,11 +53,13 @@ Students cannot modify academic records.
 * Data validation
 * Database connectivity
 * Audit logging
+  
 **Technologies Used**
 * Java
 * MySQL
 * SQL
 * NetBeans IDE
+  
 **Database**
 The system uses a relational MySQL database.
 **Database name:**
@@ -68,6 +74,7 @@ The main tables include:
 * Report
 * User
 * AuditLog
+  
 **System Documentation**
 * [Requirements](docs/requirements.md)
 * [Functional Requirements](docs/functional-requirements.md)
@@ -75,13 +82,16 @@ The main tables include:
 * [System Design](docs/system-design.md)
 * [Database Design](docs/database-design.md)
 * [Testing](docs/testing.md)
+  
 **Diagrams**
 The project includes:
 * Use Case Diagram
 * Class Diagram
 * Entity Relationship Diagram (ERD)
+  
 **Screenshots**
 Screenshots demonstrating the system interface and functionality are included in the `screenshots` folder.
+
 **Testing**
 The system was tested using unit testing and functional testing.
 The documented test cases included:
@@ -90,6 +100,7 @@ The documented test cases included:
 * Adding a student
 * Searching for a student
 The testing evidence recorded all four test cases as passed.
+
 **What I Learned**
 Through this project, I gained practical experience in:
 * Java application development
@@ -102,6 +113,7 @@ Through this project, I gained practical experience in:
 * Requirements analysis
 * Testing 
 * Working with GitHub
+  
 **Future Improvements**
 Possible future improvements include:
 * Improving the user interface.
