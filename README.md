@@ -16,6 +16,7 @@ The main objectives of the system are to:
 * Provide fast and reliable access to student academic information.
   
 **User Roles**
+
 1.School Administrator
 The administrator manages the system and can:
 * Add student records.
@@ -25,12 +26,14 @@ The administrator manages the system and can:
 * Manage subject information.
 * Record assessment results.
 * Maintain accurate student information.
+  
 2.Teacher
 The teacher is responsible for:
 * Recording student assessment marks.
 * Updating results when necessary.
 * Viewing student performance information.
 * Ensuring that marks entered into the system are correct and complete.
+  
 3. Student
 The student has limited access to the system and can:
 * View personal information.
