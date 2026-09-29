@@ -102,6 +102,7 @@ The documented test cases included:
 * Invalid user login
 * Adding a student
 * Searching for a student
+  
 The testing evidence recorded all four test cases as passed.
 
 **What I Learned**
